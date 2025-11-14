@@ -1,1 +1,2 @@
-Name: [Your Name]\nEmail: [Your Email]\nOS: win32 10.0.26100\nCPU: [Your CPU]\nRAM: [Your RAM]\nLanguage & version: Python 3.11.7 (example)\nOptional notes: Using PuLP for Linear Programming in the Factory problem. Max-flow implementation for the Belts problem will be custom or a well-known algorithm.
+Name - Divyansh Verma
+Enrollment Number - 22114033
